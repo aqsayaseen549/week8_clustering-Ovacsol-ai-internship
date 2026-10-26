@@ -1,0 +1,3 @@
+Method,Clusters,Silhouette Score
+K-Means,2,0.34338224069077805
+Hierarchical,2,0.33938477753669855
